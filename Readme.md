@@ -17,4 +17,14 @@ $ veriler.txt (Dizin içinde bulunan txt belge yolu)
 
 ```
 
+### Veri Dosya formatı
+
+Veri dosyasında x ve y eksenleri aşağıdaki iterastonda olması gerekmektedir.
+
+```sh
+X0 Y0
+X1 Y1
+X2 Y2
+
+```
 Verison 0.0.1
