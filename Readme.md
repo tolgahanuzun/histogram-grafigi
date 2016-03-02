@@ -9,7 +9,7 @@ Python dosyasını aşağıdaki adımlarla çalıştırabilirsiniz.
 ```sh
 $ sudo apt-get install python-matplotlib
 
-$ git clone 'url'
+$ git clone https://github.com/tolgahanuzun/histogram-grafigi.git
 
 $ python main.py 
 
