@@ -18,12 +18,12 @@ say=0
 for i in range(1, uzunluk, 2):
 	yenix[say] = int(yeni[i])
 	say=say+1
-	print yenix
+	
 say=0
 for j in range(0, uzunluk, 2):
 	yeniy[say] =int(yeni[j])
 	say=say+1
-	print yeniy
+	
 
 #goruntu olusturma kismi
 plt.bar(yenix,yeniy,width = 1)

@@ -27,4 +27,9 @@ X1 Y1
 X2 Y2
 
 ```
-Verison 0.0.1
+
+### Örnek
+
+![Resim](example/1.png)
+
+-Verison 0.0.1
